@@ -1,0 +1,17 @@
+{
+  "id": "Security/ATECC508A-MAHDA:ATECC508A-MAHDA",
+  "name": "ATECC508A-MAHDA",
+  "library": "Security",
+  "file": "Security.kicad_symdir/ATECC508A-MAHDA.kicad_sym",
+  "description": "Cryptographic Co-Processor with Secure Hardware-based 16 Key Storage, ECDSA and ECDH support, I2C, UDFN-8",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/20005928A.pdf",
+  "keywords": "Cryptographic coprocessor",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm",
+  "extends": "ATECC608A-MAHDA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-security@master/parts/ATECC508A-MAHDA/",
+  "part_path": "parts/ATECC508A-MAHDA",
+  "symbol_file": "parts/ATECC508A-MAHDA/ATECC508A-MAHDA.kicad_sym",
+  "source_library": "Security.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:48.567Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Security/ATAES132A-SH:ATAES132A-SH",
+  "name": "ATAES132A-SH",
+  "library": "Security",
+  "file": "Security.kicad_symdir/ATAES132A-SH.kicad_sym",
+  "description": "32K AES serial EEPROM, SOIC-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/ATAES132A-Data-Sheet-40002023A.pdf",
+  "keywords": "cryptographic security AES SPI",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-security@master/parts/ATAES132A-SH/",
+  "part_path": "parts/ATAES132A-SH",
+  "symbol_file": "parts/ATAES132A-SH/ATAES132A-SH.kicad_sym",
+  "source_library": "Security.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:48.566Z"
+}

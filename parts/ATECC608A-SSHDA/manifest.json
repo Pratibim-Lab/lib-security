@@ -1,0 +1,17 @@
+{
+  "id": "Security/ATECC608A-SSHDA:ATECC608A-SSHDA",
+  "name": "ATECC608A-SSHDA",
+  "library": "Security",
+  "file": "Security.kicad_symdir/ATECC608A-SSHDA.kicad_sym",
+  "description": "Cryptographic Co-Processor with Secure Hardware-based 16 Key Storage, ECDSA and ECDH support, I2C, SOIC-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-CryptoAuthentication-Device-Summary-Data-Sheet-DS40001977B.pdf",
+  "keywords": "Cryptographic coprocessor",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-security@master/parts/ATECC608A-SSHDA/",
+  "part_path": "parts/ATECC608A-SSHDA",
+  "symbol_file": "parts/ATECC608A-SSHDA/ATECC608A-SSHDA.kicad_sym",
+  "source_library": "Security.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:48.579Z"
+}
